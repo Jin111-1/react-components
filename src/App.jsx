@@ -107,6 +107,7 @@ function App() {
       {<Header />}
       {<Main />}
       {<Section />}
+      {<Button/>}
       {<Footer />}
     </div>
   );
